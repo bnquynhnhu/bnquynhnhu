@@ -21,4 +21,5 @@ Technologies I've been learning and using so far :
     [![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C)]
     [![Jupyter Notebook]
 - Database : <br />
-    [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)]
+    [![MS SQL](https://img.shields.io/badge/-SQL-eee?style=flat-square&logo=sql&logoColor=4479A1)] 
+    [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)] 
