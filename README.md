@@ -5,7 +5,7 @@
 I'm a Vietnamese who has a curious mind. I'd like to learn something new every day. I'm a **Data Enthusiast**.
 
 - 🌱 On the way of learning *Advanced Machine Learning* & *Data Science*.
-- 😍 My hobbies are [photography](https://flic.kr/s/aHsmUCjQWP), polymer clay modeling and [cooking].
+- 😍 My hobbies are [photography](https://flic.kr/s/aHsmUCjQWP), polymer clay modeling and cooking.
 - 💌 Contact me at [nhu.nguy21@gmail.com](mailto:nhu.nguy21@gmail.com).
 
 Technologies I've been learning and using so far :
