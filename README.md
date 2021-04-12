@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nhu-nguyen-24015847/)](https://www.linkedin.com/in/nhu-nguyen-24015847/)
 
-I'm a Vietnamese who has a curious mind. I'd like to learn something new every day. I'm a **Data Enthusiast**.
+A ten-year-experience software engineer who wants to engage in a new adventure - data science. Experienced in data collection, analysis and management. Works well under pressure and consistently meets deadlines and targets while delivering high quality work. 
 
 - 🌱 On the way of learning *Advanced Machine Learning* & *Data Science*.
 - 😍 My hobbies are [photography](https://flic.kr/s/aHsmUCjQWP), polymer clay modeling and cooking.
