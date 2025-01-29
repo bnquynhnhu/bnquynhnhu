@@ -11,10 +11,9 @@ Software Engineer with more than 10 years's experience in analysis, design, deve
 Technologies I've been learning and using so far :
 
 - Technologies : <br />
-    [![Java](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)], Javascript, JPA/Hibernate, Spring/Springboot, Kafka, Redis, Git
+    .Java, Javascript, JPA/Hibernate, Spring/Springboot, Kafka, Redis, Git
     [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor#F7BD2F)]
     [![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php&logoColor=4951aa)]
-    [![Java](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)]
 - Machine Learning / Deep Learning frameworks : <br />
     [![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00)]
     [![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C)]
