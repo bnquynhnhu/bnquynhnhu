@@ -10,7 +10,7 @@ Software Engineer with more than 10 years's experience in analysis, design, deve
 
 Technologies I've been learning and using so far :
 
-Technologies : <br />
+- Technologies : <br />
     [![Java](http://img.shields.io/badge/-Java-eee?style=flat-square&logo=java&logoColor=007396)]
     [![JavaScript](http://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=F7DF1E)]
     [![JPA/Hibernate](http://img.shields.io/badge/-JPA/Hibernate-eee?style=flat-square&logo=hibernate&logoColor=59666C)]
@@ -21,10 +21,13 @@ Technologies : <br />
     [![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)]
     [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor=#F7BD2F)]
     [![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php&logoColor=4951aa)]
+
 - Machine Learning / Deep Learning frameworks : <br />
     [![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00)]
     [![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C)]
-    [![Jupyter Notebook]
+    [![Jupyter Notebook](http://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat-square&logo=jupyter&logoColor=F37626)]
+
 - Database : <br />
-    [![MS SQL](https://img.shields.io/badge/-SQL-eee?style=flat-square&logo=sql&logoColor=4479A1)] 
-    [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)] 
+    [![MS SQL](https://img.shields.io/badge/-SQL-eee?style=flat-square&logo=microsoft-sql-server&logoColor=4479A1)] 
+    [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)]  
+
