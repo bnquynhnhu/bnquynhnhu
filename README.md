@@ -4,13 +4,14 @@
 
 Software Engineer with more than 10 years's experience in analysis, design, development, testing and implementation of various applications. Quick learn and master new technologies; successfully working in both team and self-directed settings.
 
-- 🌱 On the way of learning *Advanced Machine Learning* & *Data Science*.
+- 🌱 Interested in Software *Engineering*, *Data Engineering*.
 - 😍 My hobbies are [photography](https://flic.kr/s/aHsmUCjQWP), polymer clay modeling and cooking.
 - 💌 Contact me at [nhu.nguy21@gmail.com](mailto:nhu.nguy21@gmail.com).
 
 Technologies I've been learning and using so far :
 
-- Programming languages : <br />
+- Technologies : <br />
+    [![Java](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)], Javascript, JPA/Hibernate, Spring/Springboot, Kafka, Redis, Git
     [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor#F7BD2F)]
     [![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php&logoColor=4951aa)]
     [![Java](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)]
