@@ -10,9 +10,16 @@ Software Engineer with more than 10 years's experience in analysis, design, deve
 
 Technologies I've been learning and using so far :
 
-- Technologies : <br />
-    .Java, Javascript, JPA/Hibernate, Spring/Springboot, Kafka, Redis, Git
-    [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor#F7BD2F)]
+Technologies : <br />
+    [![Java](http://img.shields.io/badge/-Java-eee?style=flat-square&logo=java&logoColor=007396)]
+    [![JavaScript](http://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=F7DF1E)]
+    [![JPA/Hibernate](http://img.shields.io/badge/-JPA/Hibernate-eee?style=flat-square&logo=hibernate&logoColor=59666C)]
+    [![Spring](http://img.shields.io/badge/-Spring-eee?style=flat-square&logo=spring&logoColor=6DB33F)]
+    [![Spring Boot](http://img.shields.io/badge/-Spring%20Boot-eee?style=flat-square&logo=springboot&logoColor=6DB33F)]
+    [![Kafka](http://img.shields.io/badge/-Kafka-eee?style=flat-square&logo=apache-kafka&logoColor=231F20)]
+    [![Redis](http://img.shields.io/badge/-Redis-eee?style=flat-square&logo=redis&logoColor=DC382D)]
+    [![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)]
+    [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor=#F7BD2F)]
     [![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php&logoColor=4951aa)]
 - Machine Learning / Deep Learning frameworks : <br />
     [![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00)]
